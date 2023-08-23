@@ -1,16 +1,12 @@
 # two_infinite_scroll_in_one_scroll_view
 
-A new Flutter project.
+two infinite scroll in one scroll view with getx
 
-## Getting Started
+for test / no api 
 
-This project is a starting point for a Flutter application.
+## 2023-08-23
+prototype pushed
 
-A few resources to get you started if this is your first Flutter project:
+[untitled.webm](https://github.com/SaltPepperSalt/two_infinite_scroll_in_one_scroll_view/assets/62284293/fa8cd680-2415-4e6f-833a-3fe0cb14fb3e)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I'll add comment later 
